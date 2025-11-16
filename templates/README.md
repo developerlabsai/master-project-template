@@ -1,6 +1,19 @@
 # Project Templates
 
-This directory contains templates for common project documentation and tracking needs. These templates were developed based on successful patterns from real projects.
+This directory contains templates for **backend/infrastructure** projects. These templates were developed based on successful patterns from real projects.
+
+**Looking for frontend templates?** See [../variants/README.md](../variants/README.md) for Next.js and other frontend variants.
+
+---
+
+## Framework Variants
+
+This template folder is part of the **Backend/Infrastructure** variant. Different project types have specialized variants:
+
+- **Backend/Infrastructure** (this folder) - Servers, Docker, databases, DevOps
+- **Frontend - Next.js** ([variants/frontend-nextjs/](../variants/frontend-nextjs/)) - Next.js + React applications
+
+See [variants/README.md](../variants/README.md) for complete variant documentation.
 
 ---
 
@@ -266,5 +279,11 @@ These templates were developed from real project experience. As you use them:
 | Baseline infrastructure | infrastructure-snapshot.sh |
 
 ---
+
+## See Also
+
+- [Framework Variants](../variants/README.md) - Choose the right variant for your project
+- [Frontend - Next.js Variant](../variants/frontend-nextjs/) - For React/Next.js projects
+- [Framework Updates](../FRAMEWORK_UPDATES.md) - Version history and changelog
 
 For questions or improvements, update the master template repository.
