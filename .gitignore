@@ -1,0 +1,57 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.project
+.classpath
+.settings/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Environment Files (if you add them later)
+.env
+.env.local
+.env.*.local
+
+# Node modules (if you add Node.js projects)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if you add Python projects)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Project-specific (customize these)
+# Add any files/folders that should be ignored for projects using this template
